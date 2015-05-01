@@ -14,6 +14,8 @@
 		<string>github.com:SureshKumarD/iOSobjectiveCassignments.git</string>
 		<key>7A37311E362CC106D93DE38B846C8C909C8FB6EB</key>
 		<string>https://github.com/SureshKumarD/SwiftParseLogin.git</string>
+		<key>D380F5D82BDC09738DA7EFD0439BB3B9EED9151C</key>
+		<string>https://github.com/elolli/SwiftParseLogin-master.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>SwiftParseLogin.xcworkspace</string>
@@ -22,14 +24,16 @@
 		<key>0D5F340C50066BBEDD94DAD791A7CCCE0D6FA43C</key>
 		<string>../..</string>
 		<key>7A37311E362CC106D93DE38B846C8C909C8FB6EB</key>
+		<string>../../SwiftParseLogin</string>
+		<key>D380F5D82BDC09738DA7EFD0439BB3B9EED9151C</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/SureshKumarD/SwiftParseLogin.git</string>
+	<string>https://github.com/elolli/SwiftParseLogin-master.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7A37311E362CC106D93DE38B846C8C909C8FB6EB</string>
+	<string>D380F5D82BDC09738DA7EFD0439BB3B9EED9151C</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -47,6 +51,14 @@
 			<string>7A37311E362CC106D93DE38B846C8C909C8FB6EB</string>
 			<key>IDESourceControlWCCName</key>
 			<string>SwiftParseLogin</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D380F5D82BDC09738DA7EFD0439BB3B9EED9151C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftParseLogin-master</string>
 		</dict>
 	</array>
 </dict>
